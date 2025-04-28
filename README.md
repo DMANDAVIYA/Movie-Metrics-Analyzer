@@ -51,7 +51,7 @@ The analysis is performed on a dataset obtained from Kaggle. The dataset contain
 Scatter plots showing trends between budget and gross earnings.
 Regression plots highlighting the strength of correlations.
 Insights into missing data and data cleaning processes.
-Conclusion
+Conclusion:
 Budget and Gross Correlation:
 
 1. A strong positive correlation exists between a movie's budget and its gross earnings.
